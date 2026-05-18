@@ -1,4 +1,4 @@
-# Health Predictor - Recent Changes
+# Health Predictor - Recent Changes:
 
 ## Frontend Changes (Latest)
 
